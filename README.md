@@ -7,7 +7,7 @@ Clothing Expanded is a mod that lets players carry more accessories, but accesso
 
 Currently, if you were to have all of these items on, you could theoretically have 5 different accessories in effect (Crampons, Toolbelt, Rifle Scabbard, Moose Satchel and whatever you wish the final one to be)
 
-<img src="https://github.com/moosemeat817/ModListJson/blob/main/ClothingExpanded.png" width="80%">
+<img src="https://github.com/moosemeat817/ModListJson/blob/main/Clothing_Expanded.png" width="80%">
 
 ## Special Thanks
 
